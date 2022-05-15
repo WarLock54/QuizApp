@@ -1,0 +1,1 @@
+Sorulara gorseller eklendi ve tasarım ekranı düzenlendi.
